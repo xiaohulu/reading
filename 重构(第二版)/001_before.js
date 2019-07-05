@@ -1,4 +1,4 @@
-// 传入客户账单，打印出客户的欠款信息
+// 传入客户账单，打印客户欠款信息
 function printOwing(invoice) {
     // 声明变量，未支付金额
     let outstanding = 0;
